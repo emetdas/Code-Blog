@@ -9,7 +9,7 @@
     "test": "parcel index.html",
     "build": "parcel build index.html --out-dir production"
   },
-  "author": "",
+  "author": "Emet Das",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.14.3",
