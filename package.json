@@ -1,0 +1,19 @@
+{
+  "name": "code-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node-sass sass/style.scss css/style.css -w",
+    "install": "babel main.js --watch --out-dir js",
+    "test": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.14.3",
+    "@babel/core": "^7.14.3",
+    "@babel/preset-env": "^7.14.2"
+  }
+}
