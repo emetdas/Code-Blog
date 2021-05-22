@@ -24,4 +24,4 @@ npm i --save-dev @babel/core @babel/cli @babel/preset-env
 }
 ```
 
-![babelrc](./image-50.png)
+![babelrc](./babelrc.png)
