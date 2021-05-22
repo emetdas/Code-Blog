@@ -15,7 +15,7 @@ npm i --save-dev @babel/core @babel/cli @babel/preset-env
 }
 `
 **Create .babelrc file**
-
+~~~~
 ![babelrc](https://reachmnadeem.files.wordpress.com/2019/12/image-50.png?w=567)
 
 ----------
