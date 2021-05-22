@@ -25,3 +25,8 @@ npm i --save-dev @babel/core @babel/cli @babel/preset-env
 ```
 
 ![babelrc](./babelrc.png)
+
+----------
+```run css Autoprefix
+ctrl+shift+p
+```
