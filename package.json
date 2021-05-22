@@ -7,7 +7,7 @@
     "start": "node-sass sass/style.scss css/style.css -w",
     "install": "babel main.js --watch --out-dir js",
     "test": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html --out-dir production"
   },
   "author": "",
   "license": "ISC",
