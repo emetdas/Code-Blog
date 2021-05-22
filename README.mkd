@@ -1,25 +1,27 @@
-`"scripts": {
+```"scripts": {
     "start": "node-sass sass/style.scss css/style.css -w"
 }
-`
+```
 ```Transpile js in Babel
 npm i --save-dev @babel/core @babel/cli @babel/preset-env
 ```
-`"scripts": {
+```"scripts": {
     "install": "babel main.js --watch --out-dir js"
-}`
+}
+```
 
-`"scripts": {
+```"scripts": {
     "test": "parcel index.html",
     "build": "parcel build index.html"
 }
-`
+```
 **Create .babelrc file**
 ------------------------------------------
 **Insede .babelrc code**
 
-`{
+```{
 "presets": ["env"]    
-}`
+}
+```
 
 ![babelrc](./image-50.png)
