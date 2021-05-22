@@ -17,7 +17,7 @@ npm i --save-dev @babel/core @babel/cli @babel/preset-env
 ```
 **Create .babelrc file**
 ------------------------------------------
-**Insede .babelrc code**
+**Inside .babelrc code**
 
 ```{
 "presets": ["env"]    
