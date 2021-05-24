@@ -8,6 +8,9 @@ npm i -save-dev @fortawesome/fontawesome-free
 ```Transpile js in Babel
 npm i --save-dev @babel/core @babel/cli @babel/preset-env
 ```
+```Install Parcel 
+npm i --save-dev parcel
+```
 ```"scripts": {
     "install": "babel main.js --watch --out-dir js"
 }
