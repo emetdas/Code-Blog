@@ -15,7 +15,6 @@
     "@babel/cli": "^7.14.3",
     "@babel/core": "^7.14.3",
     "@babel/preset-env": "^7.14.2",
-    "@fortawesome/fontawesome-free": "^5.15.3",
-    "parcel": "^2.0.0-beta.2"
+    "@fortawesome/fontawesome-free": "^5.15.3"
   }
 }
