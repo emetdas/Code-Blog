@@ -41,7 +41,7 @@ npm i --save-dev parcel
 **Inside .babelrc code**
 
 ```{
-"presets": ["env"]    
+"presets": ["@babel/preset-env"]    
 }
 ```
 
