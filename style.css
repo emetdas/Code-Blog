@@ -1,9 +1,9 @@
-body{
-    -webkit-transition: all 0.5s ease-in;
-    -o-transition: all 0.5s ease-in;
-    transition: all 0.5s ease-in;
+body {
+  -webkit-transition: all 0.5s ease-in;
+  -o-transition: all 0.5s ease-in;
+  transition: all 0.5s ease-in;
 }
-p{
-    -webkit-box-sizing: border-box;
-            box-sizing: border-box;
+p {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
 }
