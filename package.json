@@ -1,10 +1,11 @@
 {
   "name": "code-blog",
   "version": "1.0.0",
-  "description": "",
+  "description": "My Production Lavel website Development Setup💻💻",
   "main": "index.js",
   "scripts": {
     "start": "node-sass sass/style.scss css/style.css -w",
+    "compress:css":"node-sass css/style.css css/compile.css --output-style compressed",
     "install": "babel main.js --watch --out-dir js",
     "dev": "parcel index.html",
     "build": "parcel build index.html --out-dir production"
