@@ -51,3 +51,4 @@ npm i --save-dev parcel
 ```run css Autoprefix
 ctrl+shift+p
 ```
+[Image-Compressor](https://compressor.io/)
