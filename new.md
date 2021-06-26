@@ -18,5 +18,6 @@ Emet Das | emetdas552@gmail.com
 <a name="badge"></a>
 # Github Badge
 
-[Create own badge](https://shields.io/)<br>
+[Create own badge](https://shields.io/)<br><br>
+-------
 ![GitHub Org's stars](https://img.shields.io/github/stars/emetdas?style=social)
