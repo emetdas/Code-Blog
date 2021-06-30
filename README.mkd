@@ -1,7 +1,7 @@
 # My Production Lavel website Development Setup💻💻
 [Image-Compressor](https://compressor.io/)
 
-```Install All defencenty for morden website build
+```Install All defencey for morden website build
 "devDependencies": {
     "@babel/cli": "^7.14.3",
     "@babel/core": "^7.14.3",
