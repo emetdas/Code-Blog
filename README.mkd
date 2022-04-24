@@ -12,7 +12,9 @@
     "parcel-bundler": "^1.12.5"
   }
 ```
-
+```
+npm install babel-preset-es2015 –save-dev
+```
 ----------
 
 ```"scripts": {
